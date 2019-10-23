@@ -23,8 +23,6 @@ PowerCLI Version: PowerCLI 6.5 R1
 PowerShell Version: 5.1
 OS Version: Windows 10 1903
 
-.EXAMPLE
-.\Get-vCenterServices.ps1
 #>
 
 
