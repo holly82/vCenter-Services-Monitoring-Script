@@ -1,1 +1,0 @@
-# vCenter-Services-Monitoring-Script
